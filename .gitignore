@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+AnotherFlyweightPattern/Library/
+FlyweightPattern/Library/
+AnotherFlyweightPattern/Temp/
+FlyweightPattern/Temp/
+GameDesignPatern/Library/
+GameDesignPatern/Temp/
